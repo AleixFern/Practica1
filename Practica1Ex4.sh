@@ -1,9 +1,9 @@
 #!/bin/bash
 
-echo "Argument 1: One"
-echo "Argument 2: Two"
-echo "Argument 3: Three"
-echo "Argument 4: Four"
-echo "Argument 5: Five"
+echo "Argument 1: $1"
+echo "Argument 2: $2"
+echo "Argument 3: $3"
+echo "Argument 4: $4"
+echo "Argument 5: $5"
 
 echo "Script name: $0"
